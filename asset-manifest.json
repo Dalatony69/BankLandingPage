@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/BankLandingPage/static/css/main.d86bc046.css",
+    "main.js": "/BankLandingPage/static/js/main.5be60c32.js",
+    "static/js/453.ed3810f9.chunk.js": "/BankLandingPage/static/js/453.ed3810f9.chunk.js",
+    "static/media/image-currency.jpg": "/BankLandingPage/static/media/image-currency.1b385bf9f62bf25ef22d.jpg",
+    "static/media/image-restaurant.jpg": "/BankLandingPage/static/media/image-restaurant.1951b57675babfd83c6c.jpg",
+    "static/media/image-mockups.png": "/BankLandingPage/static/media/image-mockups.48d35b175fe3d36de4ee.png",
+    "static/media/image-plane.jpg": "/BankLandingPage/static/media/image-plane.03db115dff75876c3f3d.jpg",
+    "static/media/image-confetti.jpg": "/BankLandingPage/static/media/image-confetti.67921b1124297023a080.jpg",
+    "static/media/icon-api.svg": "/BankLandingPage/static/media/icon-api.74c8ad1751bbd1e7f545.svg",
+    "static/media/icon-onboarding.svg": "/BankLandingPage/static/media/icon-onboarding.d74aed6429619336a30e.svg",
+    "static/media/logo.svg": "/BankLandingPage/static/media/logo.4d7cebc59950e27d6f94.svg",
+    "static/media/icon-budgeting.svg": "/BankLandingPage/static/media/icon-budgeting.ad7169975ea1eda87072.svg",
+    "static/media/bg-intro-desktop.svg": "/BankLandingPage/static/media/bg-intro-desktop.8be308fd4ce79bd32a09.svg",
+    "static/media/bg-intro-mobile.svg": "/BankLandingPage/static/media/bg-intro-mobile.c2ed38d05001e62c1c09.svg",
+    "static/media/icon-online.svg": "/BankLandingPage/static/media/icon-online.b0622b15741418e9efe3.svg",
+    "static/media/icon-instagram.svg": "/BankLandingPage/static/media/icon-instagram.54d3962efa2aa6085b77.svg",
+    "static/media/icon-pinterest.svg": "/BankLandingPage/static/media/icon-pinterest.45264b1d1cdf7f0c420d.svg",
+    "index.html": "/BankLandingPage/index.html",
+    "static/media/icon-twitter.svg": "/BankLandingPage/static/media/icon-twitter.01a8907dd0beb126cff2.svg",
+    "static/media/icon-youtube.svg": "/BankLandingPage/static/media/icon-youtube.7d6960fbb0c4831f7c66.svg",
+    "static/media/icon-facebook.svg": "/BankLandingPage/static/media/icon-facebook.1e9b33385e6dfe7a61ac.svg",
+    "static/media/icon-close.svg": "/BankLandingPage/static/media/icon-close.c2e36e0469b3b1e6c273.svg",
+    "static/media/icon-hamburger.svg": "/BankLandingPage/static/media/icon-hamburger.b0d311feac968ee5feab.svg",
+    "main.d86bc046.css.map": "/BankLandingPage/static/css/main.d86bc046.css.map",
+    "main.5be60c32.js.map": "/BankLandingPage/static/js/main.5be60c32.js.map",
+    "453.ed3810f9.chunk.js.map": "/BankLandingPage/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86bc046.css",
+    "static/js/main.5be60c32.js"
+  ]
+}
